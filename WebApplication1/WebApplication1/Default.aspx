@@ -16,8 +16,7 @@
     </p>
 </asp:Content>
 <div>
-<<<<<<< HEAD
-=======
+
 Learning GitHub
->>>>>>> 7a6c4a1d6f3a0685c9f2c355ed5b957671e4dddd
+
 </div>
