@@ -1,0 +1,7 @@
+# git ignore file
+*.suo
+<<<<<<< HEAD
+*.user
+=======
+*.cache
+>>>>>>> f91b793355bb05acdcffd6badde4b9ac36fc4ddf
