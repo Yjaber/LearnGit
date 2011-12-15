@@ -13,10 +13,14 @@
   </connectionStrings>
   <appSettings>
     <add key="test" value="test"/>
-    <add key="NewTPM" value="Abu el Waleed2"/>
+    <add key="NewTPM" value="Abu el Waleed"/>
+<<<<<<< HEAD
     <add key="Yasser" value="Abu Salah-Changed"/>
+    <add key="Making conflict" value="C4"/>
+=======
+    <add key="YasserNew" value="Abu Salah-Changed"/>
     <add key="Making conflict" value="C3"/>
-    <add key="Making conflict2" value="C1"/>
+>>>>>>> origin/master
   </appSettings>
 
   <system.web>
