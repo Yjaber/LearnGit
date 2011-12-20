@@ -55,6 +55,7 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
+    <Content Include="HosamUC.ascx" />
     <Content Include="HTMLPage1.htm" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
@@ -119,6 +120,12 @@
     <Compile Include="FromYasserPC.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HosamUC.ascx.cs">
+      <DependentUpon>HosamUC.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="HosamUC.ascx.designer.cs">
+      <DependentUpon>HosamUC.ascx</DependentUpon>
     </Compile>
     <Compile Include="NewClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
