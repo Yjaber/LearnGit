@@ -8,3 +8,8 @@ D:\Work\AAMRepositories\LearnGit\WebApplication1\WebApplication1\bin\WebApplicat
 D:\Work\AAMRepositories\LearnGit\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
 D:\Work\AAMRepositories\LearnGit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Work\AAMRepositories\LearnGit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Work\Code\LearnGit\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Work\Code\LearnGit\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Work\Code\LearnGit\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Code\LearnGit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Work\Code\LearnGit\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
