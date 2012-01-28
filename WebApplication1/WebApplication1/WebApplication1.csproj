@@ -56,8 +56,10 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
+    <Content Include="BranchChangeLog.txt" />
+    <Content Include="Copy of Item01.js" />
     <Content Include="HTMLPage1.htm" />
-    <Content Include="Item02.js" />
+    <Content Include="Item01.js" />
     <Content Include="PBahaaTest01.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
